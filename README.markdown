@@ -1,4 +1,4 @@
-# TO it's for of T. 
+# TO it's fork of T. 
 
 Below is original documentation of T:
 
